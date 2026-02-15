@@ -1,0 +1,21 @@
+body {
+    font-size: 24px;
+}
+  <style>
+        .large{
+            font-size: x-large;
+        }
+        .normal{
+            font-size: xx-large;
+        }
+        .small{
+            font-size: x-small;
+        }
+        <style>
+        .bold{
+            font-style: bold;
+        }
+        .italic-bold{
+            font-style: bold;
+        } 
+      </style>
